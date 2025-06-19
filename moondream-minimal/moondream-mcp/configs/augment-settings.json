@@ -1,0 +1,16 @@
+{
+  "augment.advanced": {
+    "mcpServers": [
+      {
+        "name": "moondream-vision",
+        "command": "node",
+        "args": [
+          "D:/ComfyUI_windows_portable/moondream-mcp-windows-augment/moondream-mcp/build/final-index.js"
+        ],
+        "env": {
+          "NODE_ENV": "production"
+        }
+      }
+    ]
+  }
+}

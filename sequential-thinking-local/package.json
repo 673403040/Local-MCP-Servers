@@ -1,0 +1,18 @@
+{
+  "name": "sequential-thinking-local-mcp",
+  "version": "1.0.0",
+  "description": "Lightweight local sequential thinking MCP server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mcp", "thinking", "sequential", "local", "lightweight"],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Local MCP Team",
+  "license": "MIT"
+}

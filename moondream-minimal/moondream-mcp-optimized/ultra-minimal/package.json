@@ -1,0 +1,19 @@
+{
+  "name": "moondream-ultra-minimal",
+  "version": "1.0.0",
+  "description": "Ultra-minimal Moondream MCP server inspired by Cursor's lightweight approach",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node server.js --test"
+  },
+  "keywords": ["mcp", "moondream", "image-analysis", "minimal", "cursor-style"],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Moondream MCP Team",
+  "license": "MIT"
+}
